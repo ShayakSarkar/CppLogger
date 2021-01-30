@@ -1,0 +1,7 @@
+*.out
+*.o
+logger_class
+log_file.txt
+driver.cpp
+.vscode
+
